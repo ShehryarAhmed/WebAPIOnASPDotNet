@@ -1,0 +1,10 @@
+D:\FirstASPProject\Users\UserDataAccess\bin\Debug\UserDataAccess.dll.config
+D:\FirstASPProject\Users\UserDataAccess\bin\Debug\UserDataAccess.dll
+D:\FirstASPProject\Users\UserDataAccess\bin\Debug\UserDataAccess.pdb
+D:\FirstASPProject\Users\UserDataAccess\bin\Debug\EntityFramework.dll
+D:\FirstASPProject\Users\UserDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\FirstASPProject\Users\UserDataAccess\bin\Debug\EntityFramework.xml
+D:\FirstASPProject\Users\UserDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\FirstASPProject\Users\UserDataAccess\obj\Debug\UserDataAccess.csprojResolveAssemblyReference.cache
+D:\FirstASPProject\Users\UserDataAccess\obj\Debug\UserDataAccess.dll
+D:\FirstASPProject\Users\UserDataAccess\obj\Debug\UserDataAccess.pdb
